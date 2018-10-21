@@ -1,0 +1,3 @@
+[submodule "src/cardsflow"]
+	path = src/cardsflow
+	url = https://github.com/cardsflow/cardsflow
